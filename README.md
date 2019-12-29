@@ -1,7 +1,7 @@
 # Resources
 
 ## About
-Here is a list of cool resources that I have collected and will add to over time. Originally, I just had many bookmarks with folders but figured it would be better here on Github where I can access it easier and others can also. It has things from development, security, math, design, philosophy, and other stuff I find interesting. There are tools, videos, articles, github repos, and other types of links. 
+Here is a list of cool resources that I have collected and will add onto over time. Originally, I just had many bookmarks with folders in my browser but figured it would be better here on Github where I can access it easier and others can also. It has things from development, security, math, design, philosophy, and other stuff I find interesting. There are tools, videos, articles, github repos, and other types of links. 
 
 
 ## Web Development
