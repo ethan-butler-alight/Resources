@@ -24,6 +24,9 @@ Here is a list of cool resources that I have collected and will add to over time
 - [The Front-End Checklist](https://frontendchecklist.io/)
 - [Python Programming - Web Development Tutorials](https://pythonprogramming.net/web-development-tutorials/)
 - [WebAIM: Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [web.dev](https://web.dev/)
+- [Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)
+- [The Modern JavaScript Tutorial](https://javascript.info/)
 
 
 
@@ -39,6 +42,7 @@ Here is a list of cool resources that I have collected and will add to over time
 - [Lorem Picsum](https://picsum.photos/)
 - [Free Web Illustrations](https://freewebillustrations.com/)
 - [Isometric](https://isometric.online/)
+- [Undraw](https://undraw.co/illustrations)
 - [Mixkit](https://mixkit.co/)
 
 ## Artifical Intelligence
@@ -68,17 +72,26 @@ Here is a list of cool resources that I have collected and will add to over time
 - [Land-book](https://land-book.com/)
 - [Interfaces.pro](https://interfaces.pro/)
 - [Code My UI](https://codemyui.com/)
+- [Design for Developers: Specific Steps to Improve Your Website Design](https://www.taniarascia.com/design-for-developers/)
+- [Lottie](https://airbnb.io/lottie/)
+- [UI Names](https://uinames.com/)
+- [4 Reasons Why You Should Design Without Color First](https://medium.com/devsdesign/4-reasons-why-you-should-design-without-color-first-c0e38180f689)
+- [siteInspire](https://www.siteinspire.com/)
+- [pttrns](https://pttrns.com/)
+
 
 ## Color
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Adobe Color](https://color.adobe.com)
 - [Paletton](http://paletton.com/)
+- [Color Hunt](https://colorhunt.co/)
+- [A quick guide to choosing a color palette](https://www.invisionapp.com/inside-design/quick-guide-color-palette/)
 
 ## Data Structures/Algorithms
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 
 
-## Fonts
+## Typography
 - [Font Awesome](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Google Web Fonts Helper](https://google-webfonts-helper.herokuapp.com/fonts)
@@ -88,14 +101,20 @@ Here is a list of cool resources that I have collected and will add to over time
 - [Adobe Edge Web Fonts](https://edgewebfonts.adobe.com/)
 - [Adobe Fonts](https://fonts.adobe.com/)
 - [Fontjoy](https://fontjoy.com/)
+- [A More Modern Scale for Web Typography](https://typecast.com/blog/a-more-modern-scale-for-web-typography)
+- [Contrast Through Scale](https://typecast.com/blog/contrast-through-scale)
+- [Modular Scale](https://www.modularscale.com/)
+
 
 ## Math
 
 ## Philosophy
 
-
 ## Finance
 
+# SEO
+- [https://saijogeorge.com/json-ld-schema-generator/](https://saijogeorge.com/json-ld-schema-generator/)
 
 ## Other
 - [Lorem Ipsum](https://www.lipsum.com/)
+- [The Book of Shaders](https://thebookofshaders.com/)
