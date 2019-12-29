@@ -27,13 +27,31 @@ Here is a list of cool resources that I have collected and will add onto over ti
 - [web.dev](https://web.dev/)
 - [Website Forms Usability: Top 10 Recommendations](https://www.nngroup.com/articles/web-form-design/)
 - [The Modern JavaScript Tutorial](https://javascript.info/)
-
+- [Django Deployment Checklist](https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/)
+- [simple is better than complex](https://simpleisbetterthancomplex.com/)
+- [Frontend Bootcamp](https://github.com/Microsoft/frontend-bootcamp)
+- [Upskill](https://upskillcourses.com/)
 
 
 
 ## Coding
 - [Solve a Random Github Issue](https://tevko.github.io/practice/github.html)
 - [Python Programming Tutorials](https://pythonprogramming.net/)
+- [PHP: The Right Way](https://phptherightway.com/)
+- [Learn](https://learn.co/)
+- [Travis CI](https://travis-ci.org/)
+- [A Simple Explanation of OOP](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Programming Notes for Professionals](https://goalkicker.com/)
+- [SQL Fun Time](https://www.sqlfuntime.com/)
+- [Edabit](https://edabit.com/)
+- [Head](https://htmlhead.dev/)
+- [API list](https://apilist.fun/)
+- [yet another insignificant programming notes](https://www.ntu.edu.sg/home/ehchua/programming/)
+- [Code Submission Evaluation System](https://cses.fi/)
+- [BrowserStack](https://www.browserstack.com/)
+- [p5.js](https://p5js.org/)
 
 ## Stock Images/Videos/Illustrations
 - [Pixabay](https://pixabay.com/)
@@ -47,11 +65,22 @@ Here is a list of cool resources that I have collected and will add onto over ti
 
 ## Artifical Intelligence
 - [Python Programming - Machine Learning Tutorials](https://pythonprogramming.net/machine-learning-tutorials/)
+- [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
+- [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
+- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
+- [TensorFlow Tutorial and Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
+- [Deep Learning](http://www.deeplearningbook.org/)
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+
 
 ## Data Analysis
 - [Python Programming - Data Analysis Tutorials](https://pythonprogramming.net/data-analysis-tutorials/)
 
 ## Security/Networking
+
+## Computer Science
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 ## Bug Bounties
 
@@ -78,6 +107,7 @@ Here is a list of cool resources that I have collected and will add onto over ti
 - [4 Reasons Why You Should Design Without Color First](https://medium.com/devsdesign/4-reasons-why-you-should-design-without-color-first-c0e38180f689)
 - [siteInspire](https://www.siteinspire.com/)
 - [pttrns](https://pttrns.com/)
+- [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
 
 
 ## Color
@@ -89,6 +119,9 @@ Here is a list of cool resources that I have collected and will add onto over ti
 
 ## Data Structures/Algorithms
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
+- [Visualizing Four Key Technical Interview Algorithms](https://jeremyaguilon.me/blog/visualizing_four_key_interview_algorithms)
+- [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
+- [A Collection of Whiteboard Interview Templates](https://jeremyaguilon.me/blog/a_collection_of_whiteboard_interview_templates)
 
 
 ## Typography
@@ -108,13 +141,29 @@ Here is a list of cool resources that I have collected and will add onto over ti
 
 ## Math
 
-## Philosophy
+## Philosophy/Thought
+- [Philosophize This!](http://philosophizethis.org/)
+- [Philosophy Now](https://philosophynow.org/)
+- [The Cognitive Science of Rationality](https://www.lesswrong.com/posts/xLm9mgJRPvmPGpo7Q/the-cognitive-science-of-rationality)
+- [The Great Thinkers](https://thegreatthinkers.org/)
 
 ## Finance
 
 # SEO
 - [https://saijogeorge.com/json-ld-schema-generator/](https://saijogeorge.com/json-ld-schema-generator/)
 
+# Fitness
+
+# Freelancing/Business
+- [Mike Monteiro: F*ck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
+
 ## Other
 - [Lorem Ipsum](https://www.lipsum.com/)
 - [The Book of Shaders](https://thebookofshaders.com/)
+- [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [Ideas Watch](https://www.ideaswatch.com/)
+- [Catchafire](https://www.catchafire.org/)
+- [Indie Hackers](https://www.indiehackers.com/)
+- [Free for developers](https://free-for.dev/)
+- [Resume](https://careercup.com/resume)
+- [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
