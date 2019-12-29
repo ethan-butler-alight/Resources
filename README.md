@@ -152,7 +152,7 @@ Here is a list of useful resources that I have collected and will add onto over 
 - [Calculus 1 and 2: Resources](https://www.geogebra.org/m/YpqytNph)
 - [Khan Academy](https://www.khanacademy.org/)
 - [The Essence of Calculus](https://www.youtube.com/playlist?list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x)
-- [A Trick to Remember Values on The Unit Circle)[https://www.youtube.com/watch?v=ao4EJzNWmK8]
+- [A Trick to Remember Values on The Unit Circle](https://www.youtube.com/watch?v=ao4EJzNWmK8)
 - [Unit Circle](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:trig/x2ec2f6f830c9fb89:unit-circle/v/unit-circle-definition-of-trig-functions-1)
 - [Wolfram Problem Generator](https://www.wolframalpha.com/problem-generator)
 - [Minimum Trigonometric Knowledge Required For Calculus](https://math.la.asu.edu/~surgent/mat271/mintrig.pdf)
