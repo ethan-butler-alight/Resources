@@ -31,6 +31,7 @@ Here is a list of cool resources that I have collected and will add onto over ti
 - [simple is better than complex](https://simpleisbetterthancomplex.com/)
 - [Frontend Bootcamp](https://github.com/Microsoft/frontend-bootcamp)
 - [Upskill](https://upskillcourses.com/)
+- [DataCamp](https://www.datacamp.com/)
 
 
 
@@ -72,7 +73,10 @@ Here is a list of cool resources that I have collected and will add onto over ti
 - [Deep Learning](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
-
+- [Outline of Artificial Intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
+- [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [A Beginner's Guide to Neural Networks and Deep Learning](https://pathmind.com/wiki/neural-network)
+- [Everything you need to know about Graph Theory for Deep Learning](https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b)
 
 ## Data Analysis
 - [Python Programming - Data Analysis Tutorials](https://pythonprogramming.net/data-analysis-tutorials/)
@@ -140,12 +144,41 @@ Here is a list of cool resources that I have collected and will add onto over ti
 
 
 ## Math
+- [Seven Bridges of Königsberg](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
+- [PatrickJMT](http://patrickjmt.com/)
+- [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
+- [Professor Leonard](https://www.youtube.com/user/professorleonard57)
+- [Calculus.org](http://calculus.org/)
+- [Calculus 1 and 2: Resources](https://www.geogebra.org/m/YpqytNph)
+- [Khan Academy](https://www.khanacademy.org/)
+- [The Essence of Calculus](https://www.youtube.com/playlist?list=PL0-GT3co4r2wlh6UHTUeQsrf3mlS2lk6x)
+- [A Trick to Remember Values on The Unit Circle)[https://www.youtube.com/watch?v=ao4EJzNWmK8]
+- [Unit Circle](https://www.khanacademy.org/math/algebra2/x2ec2f6f830c9fb89:trig/x2ec2f6f830c9fb89:unit-circle/v/unit-circle-definition-of-trig-functions-1)
+- [Wolfram Problem Generator](https://www.wolframalpha.com/problem-generator)
+- [Minimum Trigonometric Knowledge Required For Calculus](https://math.la.asu.edu/~surgent/mat271/mintrig.pdf)
+- [Stop memorizing the unit circle](https://www.youtube.com/watch?v=qW6Ua50fTw8)
+- [Understanding the Unit Circle Finȧlly!](https://www.youtube.com/watch?v=_65-IrviF6Q)
+- [Textbooks in Mathematics](https://gist.github.com/erikroyall/62a6204400145bc4b201)
+- [Better Explained](https://betterexplained.com/)
+- [How To Write Proofs](http://zimmer.csufresno.edu/~larryc/proofs/proofs.html)
+- [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
+- [Proof Tips](http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&product_isbn_issn=9780495391326&token=)
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 
 ## Philosophy/Thought
 - [Philosophize This!](http://philosophizethis.org/)
 - [Philosophy Now](https://philosophynow.org/)
 - [The Cognitive Science of Rationality](https://www.lesswrong.com/posts/xLm9mgJRPvmPGpo7Q/the-cognitive-science-of-rationality)
 - [The Great Thinkers](https://thegreatthinkers.org/)
+- [Thought experiment](https://en.wikipedia.org/wiki/Thought_experiment)
+- [Outline of philosophy](https://en.wikipedia.org/wiki/Outline_of_philosophy)
+- [Index of philosophy](https://en.wikipedia.org/wiki/Index_of_philosophy)
+- [A Guide to Arguments](https://www.reddit.com/r/philosophy/wiki/arguments)
+- [r/philosophy FAQ](https://www.reddit.com/r/philosophy/wiki/faq)
+- [r/philosophy Recommended Reading List](https://www.reddit.com/r/philosophy/wiki/readinglist)
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
+
+## Psychology
 
 ## Finance
 
@@ -167,3 +200,8 @@ Here is a list of cool resources that I have collected and will add onto over ti
 - [Free for developers](https://free-for.dev/)
 - [Resume](https://careercup.com/resume)
 - [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)
+- [Game Theory Online](https://www.youtube.com/user/gametheoryonline)
+- [MIT Open CourseWare](https://ocw.mit.edu/index.htm)
+- [Project Euler](https://projecteuler.net/)
+- [Very Short Introductions](https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=us&lang=en&)
+- [Noba](https://nobaproject.com/)
