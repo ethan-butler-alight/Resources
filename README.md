@@ -81,14 +81,28 @@ Here is a list of useful resources that I have collected and will add onto over 
 ## Data Analysis
 - [Python Programming - Data Analysis Tutorials](https://pythonprogramming.net/data-analysis-tutorials/)
 
-## Security/Networking
+## Security/Networking/Bug Bounties/Pentesting
+- [Cybrary](https://www.cybrary.it/)
+- [Google Bughunter University](https://sites.google.com/site/bughunteruniversity/)
+- [40+ Intentionally Vulnerable Websites to (Legally) Practice Your Hacking Skills](https://www.bonkersabouttech.com/security/40-plus-list-of-intentionally-vulnerable-websites-to-practice-your-hacking-skills/392)
+- [Hacksplaining](https://www.hacksplaining.com/)
+- [zseano](https://web.archive.org/web/20190619040904/https://zseano.com/)
+- [the unofficial HackerOne disclosure timeline.](http://h1.nobbd.de/)
+- [Null Byte](https://null-byte.wonderhowto.com/)
+- [Ultimate Hackers](https://web.archive.org/web/20180224083852/https://teamultimate.in/)
+- [Root Me](https://www.root-me.org/)
+- [Yeah Hub](https://www.yeahhub.com/)
+- [Hacker101](https://www.hacker101.com/)
+- [CTF Field Guide](https://trailofbits.github.io/ctf/)
+- [pwntools](https://pwntools.com)
+
+## Privacy
+
+## Cryptography/Puzzles
+- [Cryptopals](https://cryptopals.com/)
 
 ## Computer Science
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
-## Bug Bounties
-
-## Privacy
 
 ## Design
 - [Material Design](https://material.io/)
@@ -187,6 +201,7 @@ Here is a list of useful resources that I have collected and will add onto over 
 
 # Fitness
 
+
 # Freelancing/Business
 - [Mike Monteiro: F*ck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
 
@@ -205,3 +220,4 @@ Here is a list of useful resources that I have collected and will add onto over 
 - [Project Euler](https://projecteuler.net/)
 - [Very Short Introductions](https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=us&lang=en&)
 - [Noba](https://nobaproject.com/)
+- [Internet Archive](https://archive.org/)
