@@ -6,9 +6,12 @@ Here is a list of useful resources that I have collected and will add onto over 
 # Table of Contents
 - [Web Development](https://github.com/ethanbtlr/Resources/blob/master/README.md#web-development)
 - [Coding](https://github.com/ethanbtlr/Resources/blob/master/README.md#coding)
-- 
-
-
+- [Stock Images/Videos/Illustrations](https://github.com/ethanbtlr/Resources#stock-imagesvideosillustrations)
+- [Artificial Intelligence](https://github.com/ethanbtlr/Resources#artifical-intelligence)
+- [Data Analysis](https://github.com/ethanbtlr/Resources#data-analysis)
+- [Security/Networking/Bug Bounties/Pentesting](https://github.com/ethanbtlr/Resources#securitynetworkingbug-bountiespentesting)
+- [Privacy/OSINT](https://github.com/ethanbtlr/Resources#privacyosint)
+- [Cryptography/Puzzles](https://github.com/ethanbtlr/Resources#cryptographypuzzles)
 
 ## Web Development
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
@@ -128,6 +131,10 @@ Here is a list of useful resources that I have collected and will add onto over 
 - [A Beginner’s Guide to OSINT Investigation with Maltego](https://medium.com/@raebaker/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
 - [How to delete 99.9% of your digital footprint from the internet](https://threader.app/thread/1183916568771792897)
 - [General OPSEC Resources](https://greysec.net/showthread.php?tid=2859)
+- [PrivacyTools](https://www.privacytools.io/)
+- [That One Privacy Site](https://thatoneprivacysite.net/)
+- [PRISM Break](https://prism-break.org/)
+
 
 ## Cryptography/Puzzles
 - [Cryptopals](https://cryptopals.com/)
