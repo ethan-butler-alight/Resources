@@ -151,6 +151,7 @@ Here is a list of useful resources and things I find interesting that I have col
 
 ## Cryptography/Puzzles
 - [Cryptopals](https://cryptopals.com/)
+- [Wechall](https://www.wechall.net/)
 
 ## Computer Science
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
