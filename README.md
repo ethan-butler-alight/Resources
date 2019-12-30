@@ -154,7 +154,23 @@ Here is a list of useful resources that I have collected and will add onto over 
 - [FakeClients](https://fakeclients.com/)
 - [Triggering Individual Animations on a Timeline with Lottie-web](https://www.viget.com/articles/triggering-individual-animations-on-a-timeline-with-lottie-web/)
 - [DesignCode](https://designcode.io/)
-
+- [4 Reasons Why You Should Design Without Color First](https://medium.com/devsdesign/4-reasons-why-you-should-design-without-color-first-c0e38180f689)
+- [A comprehensive guide to design systems](https://www.invisionapp.com/inside-design/guide-to-design-systems/)
+- [I'm a Design Director of ~15 yrs. These 5 points are all you will ever need to know about design.](https://www.reddit.com/r/learndesign/comments/201zzk/im_a_design_director_of_15_yrs_these_5_points_are/)
+- [Logobook](http://www.logobook.com/)
+- [awwwards](https://www.awwwards.com/)
+- [Play Your Cards Right: Exploring the Cards Trend in Web Design](https://www.awwwards.com/play-your-cards-right-exploring-the-cards-trend-in-web-design.html)
+- [7 Practical Tips for Cheating at Design](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
+- [Design Tip: Never Use Black](https://ianstormtaylor.com/design-tip-never-use-black/)
+- [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
+- [Mini Tutorials](https://www.behance.net/gallery/67542659/Mini-tutorials)
+- [Behance](https://www.behance.net/)
+- [Colors & Fonts](https://www.colorsandfonts.com/)
+- [themeforest](https://themeforest.net/)
+- [Pixelarity](https://pixelarity.com/)
+- [The FWA](https://thefwa.com/)
+- [Collect UI](https://collectui.com/)
+- [SaaS Pages](https://saaspages.xyz/)
 
 ## Color
 - [Flat UI Colors](https://flatuicolors.com/)
@@ -162,6 +178,8 @@ Here is a list of useful resources that I have collected and will add onto over 
 - [Paletton](http://paletton.com/)
 - [Color Hunt](https://colorhunt.co/)
 - [A quick guide to choosing a color palette](https://www.invisionapp.com/inside-design/quick-guide-color-palette/)
+- [https://www.sessions.edu/color-calculator/](https://www.sessions.edu/color-calculator/)
+- [ColorHexa](https://www.colorhexa.com/)
 
 ## Data Structures/Algorithms
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
@@ -183,6 +201,7 @@ Here is a list of useful resources that I have collected and will add onto over 
 - [A More Modern Scale for Web Typography](https://typecast.com/blog/a-more-modern-scale-for-web-typography)
 - [Contrast Through Scale](https://typecast.com/blog/contrast-through-scale)
 - [Modular Scale](https://www.modularscale.com/)
+- [Choosing Web Fonts: A Beginner’s Guide](https://design.google/library/choosing-web-fonts-beginners-guide/)
 
 
 ## Math
