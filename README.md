@@ -151,6 +151,9 @@ Here is a list of useful resources that I have collected and will add onto over 
 - [siteInspire](https://www.siteinspire.com/)
 - [pttrns](https://pttrns.com/)
 - [Design Systems for Developers](https://www.learnstorybook.com/design-systems-for-developers/)
+- [FakeClients](https://fakeclients.com/)
+- [Triggering Individual Animations on a Timeline with Lottie-web](https://www.viget.com/articles/triggering-individual-animations-on-a-timeline-with-lottie-web/)
+- [DesignCode](https://designcode.io/)
 
 
 ## Color
@@ -246,3 +249,4 @@ Here is a list of useful resources that I have collected and will add onto over 
 - [Very Short Introductions](https://global.oup.com/academic/content/series/v/very-short-introductions-vsi/?cc=us&lang=en&)
 - [Noba](https://nobaproject.com/)
 - [Internet Archive](https://archive.org/)
+- [Deep Dream Generator](https://deepdreamgenerator.com/)
