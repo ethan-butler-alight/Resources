@@ -156,6 +156,7 @@ Here is a list of useful resources and things I find interesting that I have col
 
 ## Computer Science
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+- [https://www.edx.org/course/cs50s-introduction-to-computer-science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
 ## Design
 - [Material Design](https://material.io/)
