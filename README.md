@@ -75,6 +75,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Code Submission Evaluation System](https://cses.fi/)
 - [BrowserStack](https://www.browserstack.com/)
 - [p5.js](https://p5js.org/)
+- [33 Fundamentals Every JavaScript Developer Should Know](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)
 
 ## Stock Images/Videos/Illustrations
 - [Pixabay](https://pixabay.com/)
