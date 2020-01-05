@@ -101,6 +101,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [A Beginner's Guide to Neural Networks and Deep Learning](https://pathmind.com/wiki/neural-network)
 - [Everything you need to know about Graph Theory for Deep Learning](https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b)
+- [Fast.ai](https://www.fast.ai/)
 
 ## Data Analysis
 - [Python Programming - Data Analysis Tutorials](https://pythonprogramming.net/data-analysis-tutorials/)
