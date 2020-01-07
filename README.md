@@ -1,5 +1,5 @@
 # About
-Here is a list of useful resources and things I find interesting that I have collected and will add onto over time. Originally, I just had many bookmarks with folders in my browser but figured it would be better here on Github where I can access it easier and others can also. It has things from development, security, math, design, philosophy, and other stuff I find interesting. There are tools, videos, articles, github repos, and other types of links. 
+Here is a list of useful resources and things I find interesting that I have collected and will add onto over time. Originally, I just had many bookmarks with folders in my browser but figured it would be better here on Github where I can access it easier and others can also. It has things from development, security, math, design, philosophy, and other stuff I find interesting. There are tools, videos, articles, github repos, and other types of links. Some of the content is sparse but more will be added eventually. 
 
 # Table of Contents
 - [Web Development](https://github.com/ethanbtlr/Resources/blob/master/README.md#web-development)
