@@ -218,7 +218,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [A Collection of Whiteboard Interview Templates](https://jeremyaguilon.me/blog/a_collection_of_whiteboard_interview_templates)
 - [Cracking the Coding Interview: 150 Programming Questions and Solutions](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
 - [Khan Academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-- [Data Structure Visualizations)(https://www.cs.usfca.edu/~galles/visualization/)
+- [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/)
 - [VisuAlgo](https://visualgo.net/)
 
 
