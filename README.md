@@ -157,6 +157,7 @@ Here is a list of useful resources and things I find interesting that I have col
 ## Computer Science
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [https://www.edx.org/course/cs50s-introduction-to-computer-science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+- [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 ## Design
 - [Material Design](https://material.io/)
@@ -288,7 +289,6 @@ Here is a list of useful resources and things I find interesting that I have col
 ## Other
 - [Lorem Ipsum](https://www.lipsum.com/)
 - [The Book of Shaders](https://thebookofshaders.com/)
-- [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [Ideas Watch](https://www.ideaswatch.com/)
 - [Catchafire](https://www.catchafire.org/)
 - [Indie Hackers](https://www.indiehackers.com/)
