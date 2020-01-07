@@ -1,5 +1,3 @@
-# Resources
-
 # About
 Here is a list of useful resources and things I find interesting that I have collected and will add onto over time. Originally, I just had many bookmarks with folders in my browser but figured it would be better here on Github where I can access it easier and others can also. It has things from development, security, math, design, philosophy, and other stuff I find interesting. There are tools, videos, articles, github repos, and other types of links. 
 
@@ -278,13 +276,13 @@ Here is a list of useful resources and things I find interesting that I have col
 
 ## Finance
 
-# SEO
+## SEO
 - [https://saijogeorge.com/json-ld-schema-generator/](https://saijogeorge.com/json-ld-schema-generator/)
 
-# Fitness
+## Fitness
 
 
-# Freelancing/Business
+## Freelancing/Business
 - [Mike Monteiro: F*ck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
 
 ## Other
