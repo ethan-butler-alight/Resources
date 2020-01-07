@@ -62,7 +62,6 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Learn](https://learn.co/)
 - [Travis CI](https://travis-ci.org/)
 - [A Simple Explanation of OOP](https://medium.com/@richardeng/a-simple-explanation-of-oop-46a156581214)
-- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [freeCodeCamp](https://www.freecodecamp.org/)
 - [Programming Notes for Professionals](https://goalkicker.com/)
 - [SQL Fun Time](https://www.sqlfuntime.com/)
@@ -158,6 +157,8 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [https://www.edx.org/course/cs50s-introduction-to-computer-science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+- [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
+
 
 ## Design
 - [Material Design](https://material.io/)
