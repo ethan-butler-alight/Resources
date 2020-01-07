@@ -221,6 +221,8 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Khan Academy: Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/)
 - [VisuAlgo](https://visualgo.net/)
+- [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms)
+- [Data Structures and Algorithms in Python](https://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
 
 
 ## Typography
