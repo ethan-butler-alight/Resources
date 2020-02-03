@@ -74,6 +74,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [p5.js](https://p5js.org/)
 - [33 Fundamentals Every JavaScript Developer Should Know](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)
 - [Python Road Map](https://www.reddit.com/r/learnpython/comments/eim1x4/will_coding_endlessly_actually_make_you_better/fcsxp8o?utm_source=share&utm_medium=web2x)
+- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 
 ## Stock Images/Videos/Illustrations
 - [Pixabay](https://pixabay.com/)
