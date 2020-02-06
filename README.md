@@ -52,7 +52,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Frontend Bootcamp](https://github.com/Microsoft/frontend-bootcamp)
 - [Upskill](https://upskillcourses.com/)
 - [DataCamp](https://www.datacamp.com/)
-
+- [Full Stack Open](https://fullstackopen.com/en/)
 
 
 ## Coding
