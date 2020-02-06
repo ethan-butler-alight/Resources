@@ -156,7 +156,6 @@ Here is a list of useful resources and things I find interesting that I have col
 
 ## Computer Science
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-- [https://www.edx.org/course/cs50s-introduction-to-computer-science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 - [Computer Science Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 - [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)
 
@@ -210,7 +209,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Paletton](http://paletton.com/)
 - [Color Hunt](https://colorhunt.co/)
 - [A quick guide to choosing a color palette](https://www.invisionapp.com/inside-design/quick-guide-color-palette/)
-- [https://www.sessions.edu/color-calculator/](https://www.sessions.edu/color-calculator/)
+- [Color Calculator](https://www.sessions.edu/color-calculator/)
 - [ColorHexa](https://www.colorhexa.com/)
 
 ## Data Structures/Algorithms
@@ -283,7 +282,7 @@ Here is a list of useful resources and things I find interesting that I have col
 ## Finance
 
 ## SEO
-- [https://saijogeorge.com/json-ld-schema-generator/](https://saijogeorge.com/json-ld-schema-generator/)
+- [JSON-LD Schema Generator](https://saijogeorge.com/json-ld-schema-generator/)
 
 ## Fitness
 
