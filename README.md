@@ -212,7 +212,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Color Calculator](https://www.sessions.edu/color-calculator/)
 - [ColorHexa](https://www.colorhexa.com/)
 
-## Data Structures/Algorithms
+## Data Structures/Algorithms/Interviews
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 - [Visualizing Four Key Technical Interview Algorithms](https://jeremyaguilon.me/blog/visualizing_four_key_interview_algorithms)
 - [Ranking Interview Questions by Cram Score](https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score)
@@ -223,6 +223,8 @@ Here is a list of useful resources and things I find interesting that I have col
 - [VisuAlgo](https://visualgo.net/)
 - [Algorithms](https://www.goodreads.com/book/show/10803540-algorithms)
 - [Data Structures and Algorithms in Python](https://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
+- [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
+- [LeetCode](https://leetcode.com/)
 
 
 ## Typography
