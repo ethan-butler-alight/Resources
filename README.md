@@ -278,7 +278,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [r/philosophy FAQ](https://www.reddit.com/r/philosophy/wiki/faq)
 - [r/philosophy Recommended Reading List](https://www.reddit.com/r/philosophy/wiki/readinglist)
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
--[Philosophy Mapped](https://maps.simoncullen.org/home)
+- [Philosophy Mapped](https://maps.simoncullen.org/home)
 
 ## Psychology
 
