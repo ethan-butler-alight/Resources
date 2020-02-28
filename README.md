@@ -287,8 +287,23 @@ Here is a list of useful resources and things I find interesting that I have col
 ## SEO
 - [JSON-LD Schema Generator](https://saijogeorge.com/json-ld-schema-generator/)
 
-## Fitness
-
+## Fitness/Nutrition
+- [ExRx](https://exrx.net/)
+- [The Fitness Wiki](https://thefitness.wiki/)
+- [Jeff Nippard](https://www.youtube.com/channel/UC68TLK0mAEzUyHx5x5k-S1Q)
+- [Fundamentals Series](https://www.youtube.com/playlist?list=PLp4G6oBUcv8yxB4H2Y7IdOjst78R9UmCg)
+- [The Most Effective Science-Based Warm Up & Mobility Routine (Full Body)](https://www.youtube.com/watch?v=E81GN-3A8XM)
+- [Examine](https://examine.com/)
+- [Starting Strength](https://www.goodreads.com/book/show/2098799.Starting_Strength)
+- [Practical Programming for Strength Training](https://www.goodreads.com/book/show/1677880.Practical_Programming_for_Strength_Training)
+- [Barbell Training w/ Mark Rippetoe](https://www.youtube.com/watch?v=4AObAU-EcYE)
+- [NCBI](https://www.ncbi.nlm.nih.gov/)
+- [LogSmarter](https://logsmarter.net/)
+- [Exercise to Improve Hunchback Posture Forward Head Carriage Correction](https://www.youtube.com/watch?v=LT_dFRnmdGs)
+- [Foundation Training 4 minutes](https://www.youtube.com/watch?v=vOgxWp0WyiI)
+- [r/BodyweightFitness Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/index)
+- [Recommended Routine](https://recommendedroutine.tk/recommended-routine/)
+- [Mass Research Review](https://www.strongerbyscience.com/mass/)
 
 ## Freelancing/Business
 - [Mike Monteiro: F*ck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
