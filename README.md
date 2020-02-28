@@ -20,7 +20,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Psychology](https://github.com/ethanbtlr/Resources#psychology)
 - [Finance](https://github.com/ethanbtlr/Resources#finance)
 - [SEO](https://github.com/ethanbtlr/Resources#seo)
-- [Fitness](https://github.com/ethanbtlr/Resources#fitness)
+- [Fitness/Nutrition](https://github.com/ethanbtlr/Resources#fitnessnutrition)
 - [Freelancing/Business](https://github.com/ethanbtlr/Resources#freelancingbusiness)
 - [Other](https://github.com/ethanbtlr/Resources#other)
 
