@@ -5,7 +5,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Web Development](https://github.com/ethanbtlr/Resources/blob/master/README.md#web-development)
 - [Coding](https://github.com/ethanbtlr/Resources/blob/master/README.md#coding)
 - [Stock Images/Videos/Illustrations](https://github.com/ethanbtlr/Resources#stock-imagesvideosillustrations)
-- [Artificial Intelligence](https://github.com/ethanbtlr/Resources#artifical-intelligence)
+- [Artificial Intelligence/Machine Learning](https://github.com/ethanbtlr/Resources#artifical-intelligence)
 - [Data Analysis](https://github.com/ethanbtlr/Resources#data-analysis)
 - [Security/Networking/Bug Bounties/Pentesting](https://github.com/ethanbtlr/Resources#securitynetworkingbug-bountiespentesting)
 - [Privacy/OSINT](https://github.com/ethanbtlr/Resources#privacyosint)
@@ -90,7 +90,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Undraw](https://undraw.co/illustrations)
 - [Mixkit](https://mixkit.co/)
 
-## Artifical Intelligence
+## Artifical Intelligence/Machine Learning
 - [Python Programming - Machine Learning Tutorials](https://pythonprogramming.net/machine-learning-tutorials/)
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/)
 - [TensorFlow Tutorial For Beginners](https://www.datacamp.com/community/tutorials/tensorflow-tutorial)
@@ -104,6 +104,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [A Beginner's Guide to Neural Networks and Deep Learning](https://pathmind.com/wiki/neural-network)
 - [Everything you need to know about Graph Theory for Deep Learning](https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b)
 - [Fast.ai](https://www.fast.ai/)
+- [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
 
 ## Data Analysis
 - [Python Programming - Data Analysis Tutorials](https://pythonprogramming.net/data-analysis-tutorials/)
