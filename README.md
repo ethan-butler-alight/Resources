@@ -75,6 +75,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [33 Fundamentals Every JavaScript Developer Should Know](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1)
 - [Python Road Map](https://www.reddit.com/r/learnpython/comments/eim1x4/will_coding_endlessly_actually_make_you_better/fcsxp8o?utm_source=share&utm_medium=web2x)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+- [Udacity](https://www.udacity.com/)
 
 ## Stock Images/Videos/Illustrations
 - [Pixabay](https://pixabay.com/)
@@ -225,6 +226,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Data Structures and Algorithms in Python](https://www.goodreads.com/book/show/13838796-data-structures-and-algorithms-in-python)
 - [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [LeetCode](https://leetcode.com/)
+- [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
 
 
 ## Typography
