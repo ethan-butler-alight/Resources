@@ -53,6 +53,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Upskill](https://upskillcourses.com/)
 - [DataCamp](https://www.datacamp.com/)
 - [Full Stack Open](https://fullstackopen.com/en/)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 
 
 ## Coding
@@ -76,6 +77,8 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Python Road Map](https://www.reddit.com/r/learnpython/comments/eim1x4/will_coding_endlessly_actually_make_you_better/fcsxp8o?utm_source=share&utm_medium=web2x)
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
 - [Udacity](https://www.udacity.com/)
+- [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
+- [Geeks for Geeks](https://www.geeksforgeeks.org/)
 
 ## Stock Images/Videos/Illustrations
 - [Pixabay](https://pixabay.com/)
