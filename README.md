@@ -5,7 +5,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Web Development](https://github.com/ethanbtlr/Resources/blob/master/README.md#web-development)
 - [Coding](https://github.com/ethanbtlr/Resources/blob/master/README.md#coding)
 - [Stock Images/Videos/Illustrations](https://github.com/ethanbtlr/Resources#stock-imagesvideosillustrations)
-- [Artificial Intelligence/Machine Learning](https://github.com/ethanbtlr/Resources#artifical-intelligence)
+- [Artificial Intelligence/Machine Learning](https://github.com/ethanbtlr/Resources#artifical-intelligencemachine-learning)
 - [Data Analysis](https://github.com/ethanbtlr/Resources#data-analysis)
 - [Security/Networking/Bug Bounties/Pentesting](https://github.com/ethanbtlr/Resources#securitynetworkingbug-bountiespentesting)
 - [Privacy/OSINT](https://github.com/ethanbtlr/Resources#privacyosint)
