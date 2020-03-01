@@ -142,13 +142,13 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Bug Bounty Notes](https://web.archive.org/web/20191106112723/https://www.bugbountynotes.com/)
 
 ## Privacy/OSINT
-- [The Paranoid's Bible: An anti-dox effort.](https://paranoidsbible.tumblr.com/post/114109611244/day-to-day-invasions-of-privacy)
 - [IntelTechniques](https://inteltechniques.com/)
 - [Deseat.me](https://www.deseat.me/)
 - [have i been pwned?](https://haveibeenpwned.com/)
 - [Your OSINT Graphical Analyzer](https://yoga.osint.ninja/)
 - [A Beginner’s Guide to OSINT Investigation with Maltego](https://medium.com/@raebaker/a-beginners-guide-to-osint-investigation-with-maltego-6b195f7245cc)
 - [How to delete 99.9% of your digital footprint from the internet](https://threader.app/thread/1183916568771792897)
+- [The Paranoid's Bible: An anti-dox effort](https://paranoidsbible.tumblr.com/)
 - [General OPSEC Resources](https://greysec.net/showthread.php?tid=2859)
 - [PrivacyTools](https://www.privacytools.io/)
 - [That One Privacy Site](https://thatoneprivacysite.net/)
