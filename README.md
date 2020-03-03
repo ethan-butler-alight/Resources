@@ -79,6 +79,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Udacity](https://www.udacity.com/)
 - [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
+- [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 
 ## Stock Images/Videos/Illustrations
 - [Pixabay](https://pixabay.com/)
