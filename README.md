@@ -295,7 +295,7 @@ Here is a list of useful resources and things I find interesting that I have col
 ## SEO
 - [JSON-LD Schema Generator](https://saijogeorge.com/json-ld-schema-generator/)
 
-## Fitness/Nutrition
+## Fitness/Nutrition/Health/Ergonomics
 - [ExRx](https://exrx.net/)
 - [The Fitness Wiki](https://thefitness.wiki/)
 - [Jeff Nippard](https://www.youtube.com/channel/UC68TLK0mAEzUyHx5x5k-S1Q)
@@ -312,6 +312,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [r/BodyweightFitness Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/index)
 - [Recommended Routine](https://recommendedroutine.tk/recommended-routine/)
 - [Mass Research Review](https://www.strongerbyscience.com/mass/)
+- [Dr. Levi Harrison](https://www.youtube.com/channel/UC1cbIkRS5-QfXfgKij2n11Q)
 
 ## Freelancing/Business
 - [Mike Monteiro: F*ck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
@@ -338,3 +339,5 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Kaggle](https://www.kaggle.com/)
 - [Protobowl](https://protobowl.com/)
 - [QuizDB](https://www.quizdb.org/)
+- [r/Bibliographies](https://old.reddit.com/r/bibliographies/wiki/directory)
+- [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA)
