@@ -232,7 +232,9 @@ Here is a list of useful resources and things I find interesting that I have col
 - [HackerRank Interview Preparation Kit](https://www.hackerrank.com/interview/interview-preparation-kit)
 - [LeetCode](https://leetcode.com/)
 - [Data Structures](https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-
+- [Data Structures](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
+- [Algorithms](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
+- [Sorting](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
 
 ## Typography
 - [Font Awesome](https://fontawesome.com/)
@@ -289,6 +291,9 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Philosophy Mapped](https://maps.simoncullen.org/home)
 
 ## Psychology
+
+## Performance/Sports Psychology
+[Flow](https://en.wikipedia.org/wiki/Flow_(psychology))
 
 ## Finance
 
