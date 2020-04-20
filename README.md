@@ -18,6 +18,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Math](https://github.com/ethanbtlr/Resources#math)
 - [Philosophy/Thought](https://github.com/ethanbtlr/Resources#philosophythought)
 - [Psychology](https://github.com/ethanbtlr/Resources#psychology)
+- [Performance/Sports Psychology](https://github.com/ethanbtlr/Resources#performancesports-psychology)
 - [Finance](https://github.com/ethanbtlr/Resources#finance)
 - [SEO](https://github.com/ethanbtlr/Resources#seo)
 - [Fitness/Nutrition](https://github.com/ethanbtlr/Resources#fitnessnutrition)
