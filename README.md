@@ -13,7 +13,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Computer Science](https://github.com/ethanbtlr/Resources#computer-science)
 - [Design](https://github.com/ethanbtlr/Resources#design)
 - [Color](https://github.com/ethanbtlr/Resources#color)
-- [Data Structures/Algorithms](https://github.com/ethanbtlr/Resources#data-structuresalgorithms)
+- [Data Structures/Algorithms/Interviews](https://github.com/ethanbtlr/Resources#data-structuresalgorithmsinterviews)
 - [Typography](https://github.com/ethanbtlr/Resources#typography)
 - [Math](https://github.com/ethanbtlr/Resources#math)
 - [Philosophy/Thought](https://github.com/ethanbtlr/Resources#philosophythought)
