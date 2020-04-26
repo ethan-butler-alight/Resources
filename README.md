@@ -347,3 +347,4 @@ Here is a list of useful resources and things I find interesting that I have col
 - [QuizDB](https://www.quizdb.org/)
 - [r/Bibliographies](https://old.reddit.com/r/bibliographies/wiki/directory)
 - [What I've Learned](https://www.youtube.com/channel/UCqYPhGiB9tkShZorfgcL2lA)
+- [Tips for mathematical handwriting](https://johnkerl.org/doc/ortho/ortho.html)
