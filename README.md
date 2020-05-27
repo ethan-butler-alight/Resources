@@ -142,6 +142,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Bug Bounty World](https://bugbountyworld.com/)
 - [Enigma Group](https://www.enigmagroup.org/)
 - [Bug Bounty Notes](https://web.archive.org/web/20191106112723/https://www.bugbountynotes.com/)
+- [Guido Vranken AMA](https://www.reddit.com/r/hacking/comments/grmfd7/i_am_a_security_researcher_who_has_found_hundreds/)
 
 ## Privacy/OSINT
 - [IntelTechniques](https://inteltechniques.com/)
