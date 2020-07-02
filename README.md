@@ -328,6 +328,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Recommended Routine](https://recommendedroutine.tk/recommended-routine/)
 - [Mass Research Review](https://www.strongerbyscience.com/mass/)
 - [Dr. Levi Harrison](https://www.youtube.com/channel/UC1cbIkRS5-QfXfgKij2n11Q)
+- [HealthyGamerGG](https://www.youtube.com/channel/UClHVl2N3jPEbkNJVx-ItQIQ)
 
 ## Freelancing/Business
 - [Mike Monteiro: F*ck You, Pay Me](https://www.youtube.com/watch?v=jVkLVRt6c1U)
