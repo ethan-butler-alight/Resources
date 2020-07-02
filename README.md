@@ -299,7 +299,7 @@ Here is a list of useful resources and things I find interesting that I have col
 ## Psychology
 
 ## Performance/Sports Psychology
-- [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)
+- [Flow](https://en.wikipedia.org/wiki/Flow_(psychology))
 - [Yerkes-Dodson Law](https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law)
 - [The Mental Game of Poker 1 and 2](https://jaredtendlerpoker.com/tmgp1and2/)
 - [The Mental Game of Poker Online Guide](https://www.888poker.com/magazine/poker-mental-strategy)
