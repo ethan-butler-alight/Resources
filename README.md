@@ -81,6 +81,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [mycodeschool](https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/)
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
+- [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
 ## Stock Images/Videos/Illustrations
 - [Pixabay](https://pixabay.com/)
@@ -100,7 +101,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [TensorFlow Tutorial and Examples for Beginners](https://github.com/aymericdamien/TensorFlow-Examples)
 - [Deep Learning](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
-- [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [Outline of Artificial Intelligence](https://en.wikipedia.org/wiki/Outline_of_artificial_intelligence)
 - [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [A Beginner's Guide to Neural Networks and Deep Learning](https://pathmind.com/wiki/neural-network)
@@ -156,6 +157,8 @@ Here is a list of useful resources and things I find interesting that I have col
 - [PrivacyTools](https://www.privacytools.io/)
 - [That One Privacy Site](https://thatoneprivacysite.net/)
 - [PRISM Break](https://prism-break.org/)
+- [r/Privacy Wiki](https://www.reddit.com/r/privacy/wiki/index)
+- [Michael Bazell's Books](https://inteltechniques.com/books.html)
 
 
 ## Cryptography/Puzzles
@@ -237,6 +240,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Data Structures](https://www.youtube.com/playlist?list=PLI1t_8YX-Apv-UiRlnZwqqrRT8D1RhriX)
 - [Algorithms](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 - [Sorting](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
+- [Interview Cake](https://www.interviewcake.com/)
 
 ## Typography
 - [Font Awesome](https://fontawesome.com/)
@@ -295,7 +299,11 @@ Here is a list of useful resources and things I find interesting that I have col
 ## Psychology
 
 ## Performance/Sports Psychology
-[Flow](https://en.wikipedia.org/wiki/Flow_(psychology))
+- [Flow](https://en.wikipedia.org/wiki/Flow_(psychology)
+- [Yerkes-Dodson Law](https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law)
+- [The Mental Game of Poker 1 and 2](https://jaredtendlerpoker.com/tmgp1and2/)
+- [The Mental Game of Poker Online Guide](https://www.888poker.com/magazine/poker-mental-strategy)
+- [ExRx: Exercise & Sports Psychology](https://exrx.net/Psychology)
 
 ## Finance
 
