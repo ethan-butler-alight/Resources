@@ -159,6 +159,8 @@ Here is a list of useful resources and things I find interesting that I have col
 - [PRISM Break](https://prism-break.org/)
 - [r/Privacy Wiki](https://www.reddit.com/r/privacy/wiki/index)
 - [Michael Bazell's Books](https://inteltechniques.com/books.html)
+- [BrowserLeaks](https://browserleaks.com/)
+- [Firefox Privacy Guide](https://www.reddit.com/r/privacytoolsIO/comments/d3of43/firefox_privacy_guide/)
 
 
 ## Cryptography/Puzzles
