@@ -83,7 +83,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Programmer Competency Matrix](http://sijinjoseph.com/programmer-competency-matrix/)
 - [Google Tech Dev Guide](https://techdevguide.withgoogle.com/)
 
-## Stock Images/Videos/Illustrations
+## Stock Images/Videos/Illustrations/Icons
 - [Pixabay](https://pixabay.com/)
 - [Unsplash](https://unsplash.com/)
 - [Pexels](https://www.pexels.com/)
@@ -92,6 +92,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Isometric](https://isometric.online/)
 - [Undraw](https://undraw.co/illustrations)
 - [Mixkit](https://mixkit.co/)
+- [Tabler Icons](https://tablericons.com/)
 
 ## Artifical Intelligence/Machine Learning
 - [Python Programming - Machine Learning Tutorials](https://pythonprogramming.net/machine-learning-tutorials/)
