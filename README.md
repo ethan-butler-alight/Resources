@@ -109,6 +109,8 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Everything you need to know about Graph Theory for Deep Learning](https://towardsdatascience.com/graph-theory-and-deep-learning-know-hows-6556b0e9891b)
 - [Fast.ai](https://www.fast.ai/)
 - [Mathematics for Machine Learning](https://gwthomas.github.io/docs/math4ml.pdf)
+- [Neural Networks from Scratch Book](https://nnfs.io/)
+- [Neural Networks from Scratch Series](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 
 ## Data Analysis
 - [Python Programming - Data Analysis Tutorials](https://pythonprogramming.net/data-analysis-tutorials/)
@@ -245,6 +247,8 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Algorithms](https://www.youtube.com/playlist?list=PLI1t_8YX-ApvMthLj56t1Rf-Buio5Y8KL)
 - [Sorting](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
 - [Interview Cake](https://www.interviewcake.com/)
+- [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
+- [Algorithms](https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O)
 
 ## Typography
 - [Font Awesome](https://fontawesome.com/)
