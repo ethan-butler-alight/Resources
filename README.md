@@ -179,6 +179,7 @@ Here is a list of useful resources and things I find interesting that I have col
 
 ## Design
 - [Material Design](https://material.io/)
+- [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
 - [Card Surge](https://card.surge.sh/)
 - [Abduzeedo](https://abduzeedo.com/)
 - [7 Rules for Creating Gorgeous UI](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
@@ -219,6 +220,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [The FWA](https://thefwa.com/)
 - [Collect UI](https://collectui.com/)
 - [SaaS Pages](https://saaspages.xyz/)
+- [Mobbin](https://mobbin.design/)
 
 ## Color
 - [Flat UI Colors](https://flatuicolors.com/)
