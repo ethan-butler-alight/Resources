@@ -285,7 +285,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Better Explained](https://betterexplained.com/)
 - [How To Write Proofs](http://zimmer.csufresno.edu/~larryc/proofs/proofs.html)
 - [Book of Proof](https://www.people.vcu.edu/~rhammack/BookOfProof/)
-- [Proof Tips](http://www.cengage.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&product_isbn_issn=9780495391326&token=)
+- [Proof Tips](https://www.cengage.com/resource_uploads/downloads/0495391328_269797.pdf)
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 - [Trig Cheat Sheet](http://tutorial.math.lamar.edu/pdf/trig_cheat_sheet.pdf)
 - [Real Not Complex](https://realnotcomplex.com/)
