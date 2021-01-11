@@ -55,6 +55,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [DataCamp](https://www.datacamp.com/)
 - [Full Stack Open](https://fullstackopen.com/en/)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [CSS Stats](https://cssstats.com/)
 
 
 ## Coding
@@ -221,6 +222,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Mobbin](https://mobbin.design/)
 - [Design Better](https://www.designbetter.co)
 - [Website Style Guide Resources](http://styleguides.io/)
+- [Programming Design Systems](https://programmingdesignsystems.com/)
 
 ## Color
 - [Flat UI Colors](https://flatuicolors.com/)
@@ -230,6 +232,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [A quick guide to choosing a color palette](https://www.invisionapp.com/inside-design/quick-guide-color-palette/)
 - [Color Calculator](https://www.sessions.edu/color-calculator/)
 - [ColorHexa](https://www.colorhexa.com/)
+- [Color Contrast Tools](http://www.webaxe.org/color-contrast-tools/)
 
 ## Data Structures/Algorithms/Interviews
 - [Algorithms to Live By: The Computer Science of Human Decisions](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
