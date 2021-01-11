@@ -219,7 +219,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Collect UI](https://collectui.com/)
 - [SaaS Pages](https://saaspages.xyz/)
 - [Mobbin](https://mobbin.design/)
-- [Design Better(https://www.designbetter.co)
+- [Design Better](https://www.designbetter.co)
 
 ## Color
 - [Flat UI Colors](https://flatuicolors.com/)
