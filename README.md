@@ -220,6 +220,7 @@ Here is a list of useful resources and things I find interesting that I have col
 - [SaaS Pages](https://saaspages.xyz/)
 - [Mobbin](https://mobbin.design/)
 - [Design Better](https://www.designbetter.co)
+- [Website Style Guide Resources](http://styleguides.io/)
 
 ## Color
 - [Flat UI Colors](https://flatuicolors.com/)
