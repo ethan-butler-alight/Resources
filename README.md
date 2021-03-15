@@ -1,5 +1,5 @@
 # About
-Here is a list of useful resources and things I find interesting that I have collected and will add onto over time. Originally, I just had many bookmarks with folders in my browser but figured it would be better here on Github where I can access it easier and others can also. It has things from development, security, math, design, philosophy, and other stuff I find interesting. There are tools, videos, articles, github repos, and other types of links. Some of the content is sparse but more will be added eventually. 
+Here is a list of useful resources and things I find interesting that I have collected. Originally, I just had many bookmarks with folders in my browser but figured it would be better here on Github where I can access it easier and others can also. It has things from development, security, math, design, philosophy, and other stuff I find interesting. There are tools, videos, articles, github repos, and other types of links. As of now, I won't be updating this Github repo. I think a couple of the links may be broken, but feel free to use the repo it since it still has a wealth of valuable information.
 
 # Table of Contents
 - [Web Development](https://github.com/ethanbtlr/Resources/blob/master/README.md#web-development)
@@ -309,16 +309,12 @@ Here is a list of useful resources and things I find interesting that I have col
 - [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/)
 - [Philosophy Mapped](https://maps.simoncullen.org/home)
 
-## Psychology
-
 ## Performance/Sports Psychology
 - [Flow](https://en.wikipedia.org/wiki/Flow_(psychology))
 - [Yerkes-Dodson Law](https://en.wikipedia.org/wiki/Yerkes%E2%80%93Dodson_law)
 - [The Mental Game of Poker 1 and 2](https://jaredtendlerpoker.com/tmgp1and2/)
 - [The Mental Game of Poker Online Guide](https://www.888poker.com/magazine/poker-mental-strategy)
 - [ExRx: Exercise & Sports Psychology](https://exrx.net/Psychology)
-
-## Finance
 
 ## SEO
 - [JSON-LD Schema Generator](https://saijogeorge.com/json-ld-schema-generator/)
